@@ -15,7 +15,7 @@ We deliver accurate and up-to-date currency data. Our exchange rates are deliver
 We are compatible with any programming or scripting language; making sure you can always build with us. Choose us and be rest assured your app or website will always be feature packed
 
 ## Our Features
-* 350+ Currencies
+* 370 Currencies
 * All World Currencies
 * Precious Metals
 * Cryptocurrencies
