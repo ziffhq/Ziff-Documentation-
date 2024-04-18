@@ -14,6 +14,8 @@ We deliver accurate and up-to-date currency data. Our exchange rates are deliver
 ### Compatible
 We are compatible with any programming or scripting language; making sure you can always build with us. Choose us and be rest assured your app or website will always be feature packed
 
+![alt text](https://ziff.digital/wp-content/uploads/2024/04/gif.gif)
+
 ## Our Features
 * 370 Currencies
 * All World Currencies
@@ -29,7 +31,5 @@ We are compatible with any programming or scripting language; making sure you ca
 * Ziff Found
 * Ziff Load
 * Ziff AI Plug-in
-
-![alt text](https://ziff.digital/wp-content/uploads/2024/04/gif.gif)
 
 Choose Ziff Today!
