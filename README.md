@@ -30,4 +30,6 @@ We are compatible with any programming or scripting language; making sure you ca
 * Ziff Load
 * Ziff AI Plug-in
 
+![alt text](https://ziff.digital/wp-content/uploads/2024/04/gif.gif)
+
 Choose Ziff Today!
