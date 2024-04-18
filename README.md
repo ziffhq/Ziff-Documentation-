@@ -25,6 +25,7 @@ We are compatible with any programming or scripting language; making sure you ca
 * Popular Pairs
 * Currency Forecast
 * Exchange Rate Risk
+* Exchange Difference
 * Historical Rates
 * Currency Conversion
 * Ziff Locator
