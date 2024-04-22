@@ -22,6 +22,7 @@ We are compatible with any programming or scripting language; making sure you ca
 * Precious Metals
 * Cryptocurrencies
 * Currency Lookup
+* Currency List
 * Popular Pairs
 * Currency Forecast
 * Exchange Rate Risk
