@@ -17,7 +17,7 @@ We are compatible with any programming or scripting language; making sure you ca
 ![alt text](https://ziff.digital/wp-content/uploads/2024/04/gif.gif)
 
 ## Our Features
-* 370 Currencies
+* 380 Currencies
 * All World Currencies
 * Precious Metals
 * Cryptocurrencies
