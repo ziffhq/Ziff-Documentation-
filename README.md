@@ -2,7 +2,7 @@
 Get Currency Data based on Geolocation, Artificial Intelligence (AI), Market Popularity, Exchange Rate Risk/Exceeding, plus more.
 
 ## About Us
-At Ziff, we provide accurate currency data and currency conversions through intuitive technology. Ziff is a sustainability-focused company.
+At Ziff Digital, we provide accurate currency data and currency conversions through intuitive technology. Ziff Digital is a sustainability-focused company.
 
 ## Why Choose Us
 ### Affordable
@@ -14,10 +14,10 @@ We deliver accurate and up-to-date currency data. Our exchange rates are deliver
 ### Compatible
 We are compatible with any programming or scripting language; making sure you can always build with us. Choose us and be rest assured your app or website will always be feature packed
 
-![alt text](https://ziff.digital/wp-content/uploads/2024/04/gif.gif)
+![alt text](https://i0.wp.com/ziff.digital/wp-content/uploads/2024/05/Screenshot_20240513_152358.png?resize=1200%2C2534&ssl=1)
 
 ## Our Features
-* 380 Currencies
+* 370 Currencies
 * All World Currencies
 * Precious Metals
 * Cryptocurrencies
