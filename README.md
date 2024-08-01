@@ -1,8 +1,8 @@
 # Ziff
-Get Currency Data based on Geolocation, Artificial Intelligence (AI), Market Popularity, Exchange Rate Risk/Exceeding, plus more.
+Get Currency Conversions and Currency Data based on Geolocation, Artificial Intelligence (AI), Market Popularity, Exchange Rate Risk/Exceeding, plus more.
 
 ## About Us
-At Ziff Digital, we provide accurate currency data and currency conversions through intuitive technology. Ziff Digital is a sustainability-focused company.
+At Ziff Digital, we provide accurate currency data and currency conversions through intuitive technology. Ziff Digital is a sustainability-focused Digital Agency.
 
 ## Why Choose Us
 ### Affordable
