@@ -29,6 +29,7 @@ We are compatible with any programming or scripting language; making sure you ca
 * Exchange Difference
 * Historical Rates
 * Currency Conversion
+* Currency Strength
 * Ziff Locator
 * Ziff Found
 * Ziff Load
